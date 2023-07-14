@@ -1,6 +1,5 @@
 import Cat from "../data/cat";
 
-
 interface CatCardProps {
   name: string;
   species: string;
